@@ -1,0 +1,87 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.logo{
+    font-family: "Daft Regular", "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    margin: 30px;
+    width: 65px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    border: 1px solid black;
+    border-radius: 20px 20px;
+    position: fixed;
+    color: black;
+}
+
+.app-container {
+    padding-top: 200px;
+    margin: auto;
+    width: 400px;
+}
+.top-name {
+    font-size: 25px;
+    box-sizing: border-box;
+    padding: 0px 0px 40px 0px;
+    line-height: 1.7em;
+    height: 150px;
+}
+.buttom {
+    padding-top: 50px;
+
+}
+.create-account {
+    font-size: large;
+    border: none;
+    height: 40px;
+    width: 200px;
+    background-color: whitesmoke;
+    border-radius: 20px 20px;
+
+}
+
+.faqs-buttom {
+    padding-left: 10px;
+    color: grey;
+}
+
+.pay-one-time {
+    padding-top: 20px;
+    color: grey;
+}
+.exemple-image {
+    padding-top: 150px;
+    margin: auto;
+    width: 400px;
+}
+
+.faqs-text {
+    padding-top: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 400px;
+}
+
+.faqs-desc-text {
+    color: lightgrey;
+}
+
+p {
+    padding-top: 25px;
+}
+
+.end-image {
+    padding-top: 150px;
+    margin: auto;
+    width: 400px;
+}
+
+.footer {
+    padding-top: 50px;
+}
